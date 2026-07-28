@@ -29,6 +29,6 @@ public class AverageAndGrade {
             grade = 'F';
         }
 
-        System.out.println("Calculated Grade: " + grade);
+        System.out.println("Calculated Grade:" + grade);
     }
 }
